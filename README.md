@@ -12,10 +12,6 @@
   </a>
 
   <img alt="License" src="https://img.shields.io/badge/license-MIT-%2304D361">
-
-  <a href="https://github.com/leonardomb/bootcamp-conceitos-backend/stargazers">
-    <img alt="Stargazers" src="https://img.shields.io/github/stars/leonardomb/bootcamp-conceitos-backend?style=social">
-  </a>
 </p>
 
 ## Sobre a entrega do desafio
