@@ -23,7 +23,7 @@
 Foi criada uma aplicação contendo os conhecimentos adquiridos até o momento no Node.js!
 
 
-## Para instalar e testar
+## Como testar?
 
 Para clonar o repositório, clique no botão "Clone or download" e irá aparecer um menu. Copie a URL que aparece logo abaixo do botão.
 
@@ -32,6 +32,57 @@ No seu terminal, navegue até a sua pasta de preferência e rode o comando git c
 Com seu repositório baixado na sua máquina, execute o comando yarn na pasta do projeto clonado para instalar todas as dependências.
 
 Para rodar os testes execute o comando yarn test
+
+## Evidências de testes locais
+
+<h4>Post repositories</h4>
+<p align="center">
+  <img src="./images/01_Post_repositories.png">
+</p>
+<h4>Get repositories</h4>
+<p align="center">
+  <img src="./images/02_Get_repositories.png">
+</p>
+<h4>Put Invalid Repository ID</h4>
+<p align="center">
+  <img src="./images/03_Put_Invalid_Repository_ID.png">
+</p>
+<h4>Put repositories</h4>
+<p align="center">
+  <img src="./images/04_Put_repositories.png">
+</p>
+<h4>Get repositories after Put</h4>
+<p align="center">
+  <img src="./images/05_Get_repositories_after_Put-04.png">
+</p>
+<h4>Delete Repository not found</h4>
+<p align="center">
+  <img src="./images/06_Delete_Repository_not_found.png">
+</p>
+<h4>Delete Invalid Repository ID</h4>
+<p align="center">
+  <img src="./images/07_Delete_Invalid_Repository_ID.png">
+</p>
+<h4>Get repositories before Delete</h4>
+<p align="center">
+  <img src="./images/08_Get_repositories_before_Delete-09.png">
+</p>
+<h4>Delete repositories</h4>
+<p align="center">
+  <img src="./images/09_Delete_repositories.png">
+</p>
+<h4>Post repositories add like</h4>
+<p align="center">
+  <img src="./images/10_Post_repositories_add_like.png">
+</p>
+<h4>Get repositories after Post add like</h4>
+<p align="center">
+  <img src="./images/11_Get_repositories_after_Post_add_like-10.png">
+</p>
+<h4>Results local yarn test</h4>
+<p align="center">
+  <img src="./images/12_Results_yarn_test.png">
+</p>
 
 ## Licença
 
